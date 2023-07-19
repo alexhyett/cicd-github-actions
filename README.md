@@ -1,6 +1,6 @@
-# Setup a CI/CD Pipeline Using GitHub Actions
+# CI/CD Pipeline Using GitHub Actions: Automate Software Delivery (for free)
 
-This project includes the code from my YouTube video on "Setup a CI/CD Pipeline Using GitHub Actions" (to be released)
+This project includes the code from my YouTube video on ["CI/CD Pipeline Using GitHub Actions: Automate Software Delivery (for free)"](https://www.youtube.com/watch?v=p3W2XCD3smk)
 
 The purpose of this project is to show how you can use GitHub Actions as CI/CD pipeline instead of using tools such as TeamCity and Octopus.
 
